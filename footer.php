@@ -41,7 +41,7 @@ $container = get_theme_mod('taxPro_container_type');
 
 					<div class="col-md">
 					<div class="social-footer text-center mb-3">
-					<p class="font-weight-bold footer__text--heading">FOLLOW US</p>
+					<p class="font-weight-bold footer__text--heading">CONNECT</p>
             <a href="#" target="_blank">
                 <i class="fa fa-facebook"></i>
             </a>
