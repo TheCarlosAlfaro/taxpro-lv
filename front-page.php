@@ -25,6 +25,9 @@ $container = get_theme_mod( 'taxPro_container_type' );
 
   <!-- Blog Section -->
   <?php get_template_part( 'parts/blog-section' ); ?>
+
+  <!-- Contact Section -->
+  <?php get_template_part( 'parts/contact-section' ); ?>
 					
 
 <?php get_footer(); ?>

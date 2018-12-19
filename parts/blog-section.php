@@ -19,7 +19,7 @@ if (!defined('ABSPATH')) {
 
     <div class="row mb-2">
         <div class="col-lg">
-          <div class="card blog__card--color flex-md-row h-md-250">
+          <div class="card blog__card--color flex-md-row mb-2 h-md-250">
             <div class="card-body blog__card--text d-flex flex-column align-items-start">
               
               <h3 class="mb-0">
@@ -33,7 +33,7 @@ if (!defined('ABSPATH')) {
           </div>
         </div>
         <div class="col-lg">
-          <div class="card blog__card--color flex-md-row h-md-250">
+          <div class="card blog__card--color flex-md-row mb-2 h-md-250">
             <div class="card-body blog__card--text d-flex flex-column align-items-start">
               
               <h3 class="mb-0">

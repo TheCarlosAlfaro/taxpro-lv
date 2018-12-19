@@ -13,7 +13,7 @@ if (!defined('ABSPATH')) {
 
 <!-- about-section -->
 
-<section id="about-section" class="py-5 text-light">
+<section id="about-section" class="py-5">
   <div class="container h-100">
     <h3 class="text-center mb-5 display-4">ABOUT</h3>
     <div class="row align-items-center h-100">
@@ -32,7 +32,7 @@ if (!defined('ABSPATH')) {
     </div> 
     <div class="row">
       <div class="col-sm text-center mt-5">
-        <a href="#" class="btn btn-secondary mb-3">
+        <a href="#" class="btn btn-dark mb-3">
           <i class="fa fa-calendar" aria-hidden="true"></i> SET UP AN APPOINTMENT TODAY
         </a>
       </div>
