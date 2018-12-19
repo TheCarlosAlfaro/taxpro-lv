@@ -32,7 +32,7 @@ if ( ! function_exists( 'taxPro_add_site_info' ) ) {
       esc_url( __( 'https://carlosalfaro.me/', 'taxPro' ) ),
       sprintf(
         /* translators:*/
-        esc_html__( 'Proudly Design & Developed by %s', 'taxPro' ), 'Carlos Alfaro'
+        esc_html__( 'Proudly Developed by %s', 'taxPro' ), 'Carlos Alfaro'
       )
     );
 

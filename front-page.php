@@ -19,6 +19,9 @@ $container = get_theme_mod( 'taxPro_container_type' );
 
   <!-- About Section -->
   <?php get_template_part( 'parts/about-section' ); ?>
+
+  <!-- Team Section -->
+  <?php get_template_part( 'parts/team-section' ); ?>
 					
 
 <?php get_footer(); ?>

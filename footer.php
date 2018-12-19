@@ -27,8 +27,21 @@ $container = get_theme_mod('taxPro_container_type');
 
 				<footer class="site-footer" id="colophon">
 
-				<div class="social-footer text-center mb-3">
-					<p class="font-weight-bold">FOLLOW US</p>
+				<div class="row">
+					<div class="col-md">
+						<div class="office text-center">
+							<p class="font-weight-bold footer__text--heading">OFFICE</p>
+							<a href="https://goo.gl/maps/NyifCtL1Kpo" target="_blank">
+								<p class="m-0 font-italic">4909 Alta Drive</p> 
+								<p class="font-italic mb-2">Las Vegas, Nevada 89107</p>
+								<span><i class="fa fa-map"></i> Get Directions</span>
+							</a>
+						</div>
+					</div>
+
+					<div class="col-md">
+					<div class="social-footer text-center mb-3">
+					<p class="font-weight-bold footer__text--heading">FOLLOW US</p>
             <a href="#" target="_blank">
                 <i class="fa fa-facebook"></i>
             </a>
@@ -42,10 +55,21 @@ $container = get_theme_mod('taxPro_container_type');
                 <i class="fa fa-twitter"></i>
             </a>
         </div>
+					</div>
+					<div class="col-md">
+						<div class="office text-center">
+							<p class="font-weight-bold footer__text--heading">CONTACT</p>
+							<a href="tel:+702-822-6831"><p class="font-italic"><i class="fa fa-phone"></i> (702)822-6831</p></a>
+							<a href="mailto:info@taxprolv.com"><p class="font-italic"><i class="fa fa-envelope"></i> info@taxprolv.com</p></a>
+						</div>
+					</div>
+					
+				</div> <!-- inside row -->
+					
 					<div class="site-info">
 						<div class="text-center">
-							<span>&copy; 2019 All Rights Reserved. TAXPRO LV | </span>
-							<?php taxPro_site_info(); ?>
+							<span>&copy; TAXPRO 2019 All Rights Reserved. </span>
+							<!-- <?php taxPro_site_info(); ?> -->
 						</div>
 
 					</div><!-- .site-info -->
