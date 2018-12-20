@@ -12,7 +12,7 @@ if (!defined('ABSPATH')) {
 ?>
 
 <!-- Hero Section -->
-<div class="jumbotron jumbotron-fluid mt-5">
+<div class="jumbotron jumbotron-fluid">
   
           <div class="hero-content">
 
