@@ -59,8 +59,8 @@ $container = get_theme_mod('taxPro_container_type');
 					<div class="col-md">
 						<div class="office text-center">
 							<p class="font-weight-bold footer__text--heading">CONTACT</p>
-							<a href="tel:+702-822-6831"><p class="font-italic"><i class="fa fa-phone"></i> (702)822-6831</p></a>
-							<a href="mailto:info@taxprolv.com"><p class="font-italic"><i class="fa fa-envelope"></i> info@taxprolv.com</p></a>
+							<p class="font-italic"><a href="tel:+702-822-6831"><i class="fa fa-phone"></i> (702)822-6831</a></p>
+							<p class="font-italic"><a href="mailto:info@taxprolv.com"><i class="fa fa-envelope"></i> info@taxprolv.com</a></p>
 						</div>
 					</div>
 					

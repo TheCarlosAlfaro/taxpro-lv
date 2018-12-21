@@ -1,6 +1,10 @@
 // This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
 
 // NAVIGATION
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   padding-top: 60px;
 }
@@ -22,6 +26,11 @@ body.admin-bar nav {
 .bg-dark {
   background-color: #000;
 }
+
+.active {
+  background: $secondary;
+}
+
 
 // HERO SECTION
 // Small devices (landscape phones, 576px and up)

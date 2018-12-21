@@ -21,6 +21,14 @@ if (!defined('ABSPATH')) {
       <div class="col-md mx-auto contact__left-side">
         <div class="container pt-5">
           <h3 class="text-center display-4">GET IN TOUCH</h3>
+          <div class="text-center">
+          <p class="footer__text--heading">Hours 9:00 AM - 8:00 PM</p>
+            
+            <p class="font-italic"><a href="tel:+702-822-6831" class="text-light"><i class="fa fa-phone"></i> (702)822-6831</a></p>
+            <p class="font-italic text-light"><a href="mailto:info@taxprolv.com" class="text-light"><i class="fa fa-envelope"></i> info@taxprolv.com</a></p>
+          </div>
+          
+          
           <?php echo do_shortcode("[contact-form-7 id='37' title='Contact form 1']"); ?>
             
         </div>

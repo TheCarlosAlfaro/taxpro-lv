@@ -33,9 +33,7 @@ if (!defined('ABSPATH')) {
                           <i class="fa fa-instagram"></i>
                       </a>
                       
-                      <a href="#" target="_blank">
-                          <i class="fa fa-twitter"></i>
-                      </a>
+                      
                   </div>
                 </div>
 
@@ -56,9 +54,7 @@ if (!defined('ABSPATH')) {
                           <i class="fa fa-instagram"></i>
                       </a>
                       
-                      <a href="#" target="_blank">
-                          <i class="fa fa-twitter"></i>
-                      </a>
+                      
                   </div>
                 </div>
               </div>
@@ -78,9 +74,7 @@ if (!defined('ABSPATH')) {
                           <i class="fa fa-instagram"></i>
                       </a>
                       
-                      <a href="#" target="_blank">
-                          <i class="fa fa-twitter"></i>
-                      </a>
+                      
                   </div>
                 </div>
               </div>
@@ -89,7 +83,7 @@ if (!defined('ABSPATH')) {
 
     <div class="row">
       <div class="col-sm text-center mt-5">
-        <a href="#" class="btn btn-secondary mb-3">
+        <a href="#contact-section" class="btn btn-secondary mb-3">
           <i class="fa fa-phone" aria-hidden="true"></i> GIVE US A CALL
         </a>
       </div>

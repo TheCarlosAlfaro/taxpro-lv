@@ -32,7 +32,7 @@ if (!defined('ABSPATH')) {
     </div> 
     <div class="row">
       <div class="col-sm text-center mt-5">
-        <a href="#" class="btn btn-dark mb-3">
+        <a href="#contact-section" class="btn btn-dark mb-3">
           <i class="fa fa-calendar" aria-hidden="true"></i> SET UP AN APPOINTMENT TODAY
         </a>
       </div>
