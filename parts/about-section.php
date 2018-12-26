@@ -15,9 +15,9 @@ if (!defined('ABSPATH')) {
 
 <section id="about-section" class="py-5">
   <div class="container h-100">
-    <h3 class="text-center mb-5 display-4">ABOUT</h3>
+    <h3 class="text-center mb-5 display-4 text-light">ABOUT</h3>
     <div class="row align-items-center h-100">
-      <div class="col-sm mx-auto">
+      <div class="col-sm mx-auto text-light">
   
         <blockquote class="blockquote">
           <p class="font-italic about-text">"At TAXPRO our priority is to work with integrity for an honest and escellent tax return. To Insure the financial freedom of you and your loved ones."<p>
@@ -32,7 +32,7 @@ if (!defined('ABSPATH')) {
     </div> 
     <div class="row">
       <div class="col-sm text-center mt-5">
-        <a href="#contact-section" class="btn btn-dark mb-3">
+        <a href="#contact-section" class="btn btn-secondary mb-3">
           <i class="fa fa-calendar" aria-hidden="true"></i> SET UP AN APPOINTMENT TODAY
         </a>
       </div>

@@ -28,7 +28,7 @@ body.admin-bar nav {
 }
 
 .active {
-  background: $secondary;
+  border-bottom: 2px solid $secondary;
 }
 
 
@@ -171,8 +171,8 @@ body.admin-bar nav {
 
 // about-section
 #about-section {
-  background: $secondary;
-  // background: $dark-section;
+  // background: $secondary;
+  background: $dark-section;
 }
 
 .blockquote-footer {
