@@ -30,8 +30,7 @@ $container   = get_theme_mod( 'taxPro_container_type' );
 
 		<div class="row">
 
-			<!-- Do the left sidebar check and opens the primary div -->
-			<?php get_template_part( 'global-templates/left-sidebar-check' ); ?>
+			
 
 			<main class="site-main" id="main">
 
@@ -48,7 +47,7 @@ $container   = get_theme_mod( 'taxPro_container_type' );
 						 * If you want to override this in a child theme, then include a file
 						 * called content-___.php (where ___ is the Post Format name) and that will be used instead.
 						 */
-						get_template_part( 'loop-templates/content', get_post_format() );
+						get_template_part( 'loop-templates/content', 'blog' );
 						?>
 
 					<?php endwhile; ?>
@@ -62,10 +61,9 @@ $container   = get_theme_mod( 'taxPro_container_type' );
 			</main><!-- #main -->
 
 			<!-- The pagination component -->
-			<?php taxPro_pagination(); ?>
+			<?php taxPro_pagination(); ?> 
 
-		<!-- Do the right sidebar check -->
-		<?php get_template_part( 'global-templates/right-sidebar-check' ); ?>
+		
 		
 
 	</div><!-- .row -->
