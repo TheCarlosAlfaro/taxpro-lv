@@ -22,9 +22,9 @@ if (!defined('ABSPATH')) {
         <div class="card mb-4 box-shadow">
           <img class="card-img-top" src="<?php the_field("team_member_1_image") ?>" alt="Card image cap">
           <div class="card-body text-center">
-            <p class="team__member--name">Juan Lopez</p>
-            <p class="team__member--title font-italic">CEO & Founder</p>
-            <div class="social-team text-center">
+            <p class="team__member--name">Hector Gonzalez</p>
+            <p class="team__member--title font-italic">Founder/CFO</p>
+            <!-- <div class="social-team text-center">
 
               <a href="#" target="_blank">
                 <i class="fa fa-facebook"></i>
@@ -34,7 +34,7 @@ if (!defined('ABSPATH')) {
               </a>
 
 
-            </div>
+            </div> -->
           </div>
 
         </div>
@@ -43,9 +43,9 @@ if (!defined('ABSPATH')) {
         <div class="card mb-4 box-shadow">
           <img class="card-img-top" src="<?php the_field("team_member_2_image") ?>" alt="Card image cap">
           <div class="card-body text-center">
-            <p class="team__member--name">Julieta Azul</p>
-            <p class="team__member--title font-italic">Freelance Expert</p>
-            <div class="social-team text-center">
+            <p class="team__member--name">Samantha Ramirez</p>
+            <p class="team__member--title font-italic">General Manager</p>
+            <!-- <div class="social-team text-center">
 
               <a href="#" target="_blank">
                 <i class="fa fa-facebook"></i>
@@ -55,7 +55,7 @@ if (!defined('ABSPATH')) {
               </a>
 
 
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -63,9 +63,9 @@ if (!defined('ABSPATH')) {
         <div class="card mb-4 box-shadow">
           <img class="card-img-top" src="<?php the_field("team_member_3_image") ?>" alt="Card image cap">
           <div class="card-body text-center">
-            <p class="team__member--name">Rene Jesus</p>
-            <p class="team__member--title font-italic">Business Expert</p>
-            <div class="social-team text-center">
+            <p class="team__member--name">Jorge Soto</p>
+            <p class="team__member--title font-italic">CEO</p>
+            <!-- <div class="social-team text-center">
 
               <a href="#" target="_blank">
                 <i class="fa fa-facebook"></i>
@@ -75,7 +75,7 @@ if (!defined('ABSPATH')) {
               </a>
 
 
-            </div>
+            </div> -->
           </div>
         </div>
       </div>

@@ -26,9 +26,9 @@ if (!defined('ABSPATH')) {
       <p class="lead">“Spiritual health is the key to church growth, but healthy churches don’t happen by accident. They are nurtured over time by intentional and passionate pastors and leaders who practice Christian leadership, spiritual formation, and biblical decision making.”</p> -->
 
       <!-- Button trigger modal -->
-      <button type="button" class="btn btn-primary mb-3 mr-2" data-toggle="modal" data-target="#exampleModal">
+      <!-- <button type="button" class="btn btn-primary mb-3 mr-2" data-toggle="modal" data-target="#exampleModal">
         <i class="fa fa-play" aria-hidden="true"></i> WATCH OUR VIDEO
-      </button>
+      </button> -->
       <a href="#contact-section" class="btn btn-secondary mb-3">
         <i class="fa fa-calendar" aria-hidden="true"></i> SET UP AN APPOINTMENT
       </a>

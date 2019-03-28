@@ -21,7 +21,7 @@ if (!defined('ABSPATH')) {
 
         <blockquote class="blockquote">
           <p class="font-italic about-text"><?php the_field("about_quote"); ?><p>
-              <footer class="blockquote-footer">Hector Gonzalez - <cite title=""><small>CEO & Founder</small></cite>
+              <footer class="blockquote-footer">Hector Gonzalez - <cite title=""><small>Founder/CFO</small></cite>
               </footer>
         </blockquote>
 

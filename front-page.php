@@ -6,28 +6,28 @@
  * @package taxPro
  */
 
-if ( ! defined( 'ABSPATH' ) ) {
-	exit; // Exit if accessed directly.
+if (!defined('ABSPATH')) {
+  exit; // Exit if accessed directly.
 }
 
 get_header();
-$container = get_theme_mod( 'taxPro_container_type' );
+$container = get_theme_mod('taxPro_container_type');
 ?>
 
-  <!-- Hero Section/Jumbotron -->
-  <?php get_template_part( 'global-templates/jumbotron' ); ?>
+<!-- Hero Section/Jumbotron -->
+<?php get_template_part('global-templates/jumbotron'); ?>
 
-  <!-- About Section -->
-  <?php get_template_part( 'parts/about-section' ); ?>
+<!-- About Section -->
+<?php get_template_part('parts/about-section'); ?>
 
-  <!-- Team Section -->
-  <?php get_template_part( 'parts/team-section' ); ?>
+<!-- Team Section -->
+<?php get_template_part('parts/team-section'); ?>
 
-  <!-- Blog Section -->
-  <?php get_template_part( 'parts/blog-section' ); ?>
+<!-- Blog Section -->
+<?php  ?>
 
-  <!-- Contact Section -->
-  <?php get_template_part( 'parts/contact-section' ); ?>
-					
+<!-- Contact Section -->
+<?php get_template_part('parts/contact-section'); ?>
+
 
 <?php get_footer(); ?>
